@@ -12,6 +12,7 @@ When you launch the configured software with an image, it will read the image an
 ## Libraries used
 
  - wiringPi -> For GPIO manipulation.
+ - lambdacommon -> Colored terminal output, int parsing, file management...
  - stb_image -> For image reading.
 
 ## Build
